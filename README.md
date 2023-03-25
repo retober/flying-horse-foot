@@ -97,8 +97,8 @@ I have used the following with great success:
 |  3  | 100nF ceramic capacitors    | 0603      | C1608X7R1E104K080AA   | 810-C1608X7R1E104K   | 2332586      |       |
 |  2  | 1µF ceramic capacitors      | 0603      | C1608X7R1C105K080AC   | 810-C1608X7R1C105K   | 1907343      |       |
 |  2  | 22Ω resistors               | 0603      | ERJ-3GEYJ220V         | 667-ERJ-3GEYJ220V    | 2059557      |       |
-|  4  | 10kΩ resistors              | 0603      | ERJ-3GEYJ103V         | 667-ERJ-3GEYJ103V    | 2059627      |       |
-|  2  | 18-pin headers, 2mm pitch   | 2mm pitch | M22-2011205           | 855-M22-2011805      | 3395122      | [Better Option](https://www.adafruit.com/product/2671) |
+|  3  | 10kΩ resistors              | 0603      | ERJ-3GEYJ103V         | 667-ERJ-3GEYJ103V    | 2059627      |       |
+|  2  | 18-pin headers, 2mm pitch   | 2mm pitch | M22-2011805           | 855-M22-2011805      | 3395122      | [Better Option](https://www.adafruit.com/product/2671) |
 | ~1~ | Magnetic Reed Switch        | 15mm      | MK06-5-B              | 876-MK6-5-B          | 1079479      | [&#128196;](DataSheets/05__MK06_V02.pdf) |
 | ~1~ | ESD Protection Device       | SOT-23    | TPD4S009DBVR          | 595-TPD4S009DBVR     | 3116519      | [&#128196;](DataSheets/06__tpd4s009.pdf) |
 | ~1~ | Compact Tactile Switche     | 3.9x2.9mm | SKRKAEE020            | 688-SKRKAEE020       | *-- n/a --*  | [&#128196;](DataSheets/07__SKRK-1370789.pdf) |
