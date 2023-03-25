@@ -68,7 +68,8 @@ There are a few choices:
 
 ### Flashing
 
-The default boot loader does not support flashing from USB *(or if it does I can't find a how to)*.  As such one will need to use the supplied ISP pins and flash the board with an ISP programer like the [USBasp](https://www.fischl.de/usbasp/).
+The default boot loader does not support flashing from USB *(or if it does I can't find a how to)*.  As such one will need to use the supplied ISP pins and flash the board with an ISP programer like the [USBasp](https://www.fischl.de/usbasp/). For easier flashing without the need to disassemble the board and requiring a USBasp this USB capable Bootloader can be flashed initally [DFU-Bootloader-PrusaMK3-32u2.hex](https://github.com/PrusaOwners/mk3-32u2-firmware/blob/master/hex_files/DFU-Bootloader-PrusaMK3-32u2.hex).
+
 
 ----------
 
